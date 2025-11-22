@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 
+ // eslint-disable-next-line @typescript-eslint/no-empty-object-type
 export interface ChessGameProps {}
 
 export function ChessGame({}: ChessGameProps) {
